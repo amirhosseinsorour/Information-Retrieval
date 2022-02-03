@@ -142,7 +142,7 @@ if __name__ == '__main__':
 
     # # For Phase 3
     # # {
-    # model = load_model("..\\Phase3\\w2v_model.model") #Copy
+    # model = load_model("..\\Phase3\\w2v_model.model") # Copy
     # dictionary = load_dictionary()
     # build_documents_vectors(model, dictionary, file_name= "7k_docs_vectors.pkl")
     # # }
